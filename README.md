@@ -1,2 +1,3 @@
-# Codeforces
-Our solutions for codeforces problems .
+# CODEFORCES
+This repo will feature almost all the CODEFORCE Problems solved my me.
+
