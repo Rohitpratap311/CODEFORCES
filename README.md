@@ -10,6 +10,7 @@ Codeforce ID :- <a href="https://codeforces.com/profile/Rohitpratap311">Rohitpra
       <li> All the problems will be in CPP </li>
       <li> I will use templates to reduce extra typing </li>
   </ol>
+  <br>
   <li> <b>Problem Description :- </b> 
 <ol>
   <li> File name will the problem code . Lets denote numerical part of a code by <b>X</b> and char part as <b>Y</b> </li>
