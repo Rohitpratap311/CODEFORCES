@@ -1,5 +1,5 @@
 # CODEFORCES
-This repository contains the problems soleved by me at <a href="www.codeforces.com">Codeforces</a> <br>
+This repository contains the problems soleved by me at <a href="https://codeforces.com/">Codeforces</a> <br>
 
 Codeforce ID :- <a href="https://codeforces.com/profile/Rohitpratap311">Rohitpratp311</a>
 
